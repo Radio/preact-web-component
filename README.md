@@ -1,6 +1,6 @@
-# React Web Component
+# Preact Web Component
 
-> The repository contains a basic scaffold structure for developing typescript react components exposed as [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+> The repository contains a basic scaffold structure for developing typescript preact components exposed as [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
 It exposes a sample `Product List` component:
 

@@ -1,3 +1,4 @@
+import '@webcomponents/webcomponentsjs';
 import register from "preact-custom-element";
 
 import { ProductList } from "./ProductList";
